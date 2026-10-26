@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+}
+nav ul{
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+    justify-content: center;
+}
+
+li a{
+    text-decoration: none;
+    color: blue;
+}
+
+#first{
+    margin-right: 120px;
+}
+
+#last{
+    margin-left: 120px;
+}
